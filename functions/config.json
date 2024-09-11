@@ -1,0 +1,19 @@
+{
+	"app_name": "123Taxi",
+	"app_description": "Your App Description Here",
+	"app_identifier": "com.lochlitedevops.taxi123",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "101",
+	"firebaseProjectId": "taxi-27474",
+	"googleApiKeys": {
+		"ios": "AIzaSyDD6KDLqK6mEa8KO9d8BBvsFi65zvR118Y",
+		"android": "AIzaSyBvvHmd_SP5hg_CSZqTt40DMPTrP83CrqE",
+		"web": "AIzaSyC-wSsikPa3_3J4qrjefaXffT_VvR1apx4",
+		"server": "AIzaSyCQ1Wehv12jTBv2UL4tWGiDixcCGW03ctE"
+	},
+	"expo_owner": "raphatigra",
+	"expo_slug": "taxi",
+	"expo_project_id": "07459572-7698-453e-b312-f3c21531f7c4",
+	"admin_email": "raphatigra@gmail.com",
+	"purchase_code": "d50f26aa-77ee-499d-a6f9-c47d035bb55c"
+}

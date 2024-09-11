@@ -1,0 +1,2 @@
+possivel erro 
+- falta do campo password no banco de dados ( refazer tudo ou ver como adicionar esse campo )
