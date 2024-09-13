@@ -57,7 +57,7 @@ export default function App() {
     return Promise.all([
       Asset.loadAsync([
         require('./assets/images/background.jpg'),
-        require('./assets/images/logo165x90white.png'),
+        require('./assets/images/apple-icon.png'),
         require('./assets/images/bg.jpg'),
         require('./assets/images/intro.jpg'),
         require('./assets/images/g4.gif'),

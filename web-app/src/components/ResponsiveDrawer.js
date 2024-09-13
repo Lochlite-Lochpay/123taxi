@@ -75,7 +75,7 @@ export default function ResponsiveDrawer(props) {
   const drawer = (
     <div  style={{backgroundColor:MAIN_COLOR, height:'100%'}}>
       <div style={{ display: 'flex', backgroundColor:MAIN_COLOR, justifyContent:'center' }}>
-        <img style={{ marginTop: '20px', marginBottom: '20px', width: '120px', height: '120px' }} src={require("../assets/img/logo192x192.png").default} alt="Logo" />
+        <img style={{ marginTop: '20px', marginBottom: '20px', width: '120px', height: '120px' }} src={require("../assets/img/apple-icon.png").default} alt="Logo" />
       </div>
       <div style={{ backgroundColor:MAIN_COLOR}}>
         {role ?

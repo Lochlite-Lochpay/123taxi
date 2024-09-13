@@ -30,7 +30,7 @@ export default function AboutPage(props) {
                             <View style={styles.logo}>
                                 <Image
                                     style={{ width: width/2.5, height: width/2.5, borderRadius: 15 }}
-                                    source={require('../../assets/images/logo1024x1024.png')}
+                                    source={require('../../assets/images/apple-icon1024.png')}
                                 />
                             </View>
                         </View>

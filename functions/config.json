@@ -2,8 +2,8 @@
 	"app_name": "123Taxi",
 	"app_description": "Your App Description Here",
 	"app_identifier": "com.lochlitedevops.taxi123",
-	"ios_app_version": "1.0.0",
-	"android_app_version": "101",
+	"ios_app_version": "1.0.1",
+	"android_app_version": "102",
 	"firebaseProjectId": "taxi-27474",
 	"googleApiKeys": {
 		"ios": "AIzaSyDD6KDLqK6mEa8KO9d8BBvsFi65zvR118Y",
